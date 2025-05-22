@@ -1,4 +1,3 @@
-````markdown
 # Learnify 📚
 
 Welcome to **Learnify**, a sleek and responsive educational dashboard inspired by [this Dribbble concept](https://dribbble.com/shots/25317037-Education-Website-Courses). This project replicates the elegant UI/UX design into a working frontend interface that showcases enrolled courses, progress tracking, lesson lists, and personalized course recommendations.
@@ -36,6 +35,7 @@ To run this project locally:
 git clone https://github.com/meeetpandya/learnify-dashboard.git
 cd learnify-dashboard
 ```
+
 ````
 
 ### 2. Install dependencies
@@ -72,6 +72,4 @@ The app will now run at `http://localhost:3000`.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
-
-```
+````
